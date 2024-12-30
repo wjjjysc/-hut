@@ -1,0 +1,181 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'clock'
+Slack : -25.224
+TNS   : -914.043
+
+Type  : Slow 1100mV 85C Model Setup 'taxi_meter:inst|co'
+Slack : -5.653
+TNS   : -53.928
+
+Type  : Slow 1100mV 85C Model Hold 'clock'
+Slack : 0.475
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'taxi_meter:inst|co'
+Slack : 0.831
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'clock'
+Slack : -10.461
+TNS   : -877.648
+
+Type  : Slow 1100mV 85C Model Recovery 'taxi_meter:inst|co'
+Slack : -10.443
+TNS   : -57.706
+
+Type  : Slow 1100mV 85C Model Removal 'clock'
+Slack : 0.613
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'taxi_meter:inst|co'
+Slack : 1.590
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clock'
+Slack : -2.225
+TNS   : -82.244
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'taxi_meter:inst|co'
+Slack : -0.394
+TNS   : -5.471
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'reset'
+Slack : 0.104
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'clock'
+Slack : -26.331
+TNS   : -912.178
+
+Type  : Slow 1100mV 0C Model Setup 'taxi_meter:inst|co'
+Slack : -5.525
+TNS   : -52.382
+
+Type  : Slow 1100mV 0C Model Hold 'clock'
+Slack : 0.510
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'taxi_meter:inst|co'
+Slack : 0.814
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'taxi_meter:inst|co'
+Slack : -10.069
+TNS   : -56.004
+
+Type  : Slow 1100mV 0C Model Recovery 'clock'
+Slack : -9.882
+TNS   : -830.363
+
+Type  : Slow 1100mV 0C Model Removal 'clock'
+Slack : 0.142
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'taxi_meter:inst|co'
+Slack : 1.558
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clock'
+Slack : -2.225
+TNS   : -79.836
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'taxi_meter:inst|co'
+Slack : -0.394
+TNS   : -5.341
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'reset'
+Slack : 0.133
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'clock'
+Slack : -13.154
+TNS   : -537.253
+
+Type  : Fast 1100mV 85C Model Setup 'taxi_meter:inst|co'
+Slack : -3.373
+TNS   : -32.597
+
+Type  : Fast 1100mV 85C Model Hold 'clock'
+Slack : 0.228
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'taxi_meter:inst|co'
+Slack : 0.432
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'clock'
+Slack : -7.820
+TNS   : -661.955
+
+Type  : Fast 1100mV 85C Model Recovery 'taxi_meter:inst|co'
+Slack : -7.181
+TNS   : -39.491
+
+Type  : Fast 1100mV 85C Model Removal 'taxi_meter:inst|co'
+Slack : 0.740
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'clock'
+Slack : 0.838
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clock'
+Slack : -1.702
+TNS   : -47.385
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'reset'
+Slack : -0.093
+TNS   : -0.230
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'taxi_meter:inst|co'
+Slack : 0.059
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'clock'
+Slack : -12.418
+TNS   : -475.246
+
+Type  : Fast 1100mV 0C Model Setup 'taxi_meter:inst|co'
+Slack : -3.154
+TNS   : -30.614
+
+Type  : Fast 1100mV 0C Model Hold 'clock'
+Slack : 0.220
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'taxi_meter:inst|co'
+Slack : 0.388
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'clock'
+Slack : -6.686
+TNS   : -565.364
+
+Type  : Fast 1100mV 0C Model Recovery 'taxi_meter:inst|co'
+Slack : -6.423
+TNS   : -36.151
+
+Type  : Fast 1100mV 0C Model Removal 'clock'
+Slack : 0.311
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'taxi_meter:inst|co'
+Slack : 0.726
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clock'
+Slack : -1.702
+TNS   : -47.405
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'reset'
+Slack : -0.062
+TNS   : -0.147
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'taxi_meter:inst|co'
+Slack : 0.085
+TNS   : 0.000
+
+------------------------------------------------------------

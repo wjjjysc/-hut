@@ -1,0 +1,21 @@
+module taxi_fare(
+    input clk,          // 时钟信号
+    input rst,          // 复位信号，高电平有效
+    output reg [9:0] y  // 费用输出，10位足够表示到999
+);
+
+// 在时钟上升沿更新费用
+always @(posedge clk or posedge rst) begin
+    if (rst) begin
+        // 复位信号激活，重置费用
+        y <= 3; // 初始费用为3
+    end else begin
+        if (y < 999) begin
+            // 费用未达到最大值，增加费用
+            y <= y + 1;
+        end
+        // 如果费用达到999，保持不变
+    end
+end
+
+endmodule
